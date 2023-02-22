@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Beeline Sans';
+    src: url('BeelineSans-Regular.eot');
+    src: local('Beeline Sans Regular'), local('BeelineSans-Regular'),
+        url('BeelineSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BeelineSans-Regular.woff2') format('woff2'),
+        url('BeelineSans-Regular.woff') format('woff'),
+        url('BeelineSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Beeline Sans';
+    src: url('BeelineSans-Black.eot');
+    src: local('Beeline Sans Black'), local('BeelineSans-Black'),
+        url('BeelineSans-Black.eot?#iefix') format('embedded-opentype'),
+        url('BeelineSans-Black.woff2') format('woff2'),
+        url('BeelineSans-Black.woff') format('woff'),
+        url('BeelineSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Beeline Sans';
+    src: url('BeelineSans-Bold.eot');
+    src: local('Beeline Sans Bold'), local('BeelineSans-Bold'),
+        url('BeelineSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BeelineSans-Bold.woff2') format('woff2'),
+        url('BeelineSans-Bold.woff') format('woff'),
+        url('BeelineSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Beeline Sans';
+    src: url('BeelineSans-Medium.eot');
+    src: local('Beeline Sans Medium'), local('BeelineSans-Medium'),
+        url('BeelineSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('BeelineSans-Medium.woff2') format('woff2'),
+        url('BeelineSans-Medium.woff') format('woff'),
+        url('BeelineSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
