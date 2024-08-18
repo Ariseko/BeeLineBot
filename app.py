@@ -66,7 +66,7 @@ class FSMtest(StatesGroup):
 checkList = []
 
 storage = MemoryStorage()
-bot = Bot(token='6004408832:AAGUScIPnYkCCg1GuMfxAbeiDpbsBkC-zvE')
+bot = Bot(token='-')
 dp = Dispatcher(bot, storage=MemoryStorage())
 
 
