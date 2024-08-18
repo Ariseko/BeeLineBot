@@ -58,7 +58,7 @@ class FSMtest(StatesGroup):
     getUserName = State()
 
 storage = MemoryStorage()
-bot = Bot(token='6232611398:AAG0G-b28OvUMOqPqyGMlc32lfWpbxZBW9g')
+bot = Bot(token='-')
 dp = Dispatcher(bot, storage=MemoryStorage())
 
 
